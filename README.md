@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 26, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/el-donia-ahla-b-hobik-the-world-is-better-with-your-love/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get Permission to Use El Donia Ahla B Hobik – The World Is Better with Your Love](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
